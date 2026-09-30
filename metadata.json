@@ -1,0 +1,6 @@
+{
+  "name": "ChatGPT Infrastructure: A 15-Year Engineering Genesis",
+  "description": "A comprehensive technical monograph and interactive systems analysis exploring the silicon fabrics, scaling laws, distributed parallelism, and alignment infrastructure behind modern LLMs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
